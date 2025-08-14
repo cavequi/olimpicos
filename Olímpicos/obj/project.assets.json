@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\3A-MODULAR\\hmm\\Olímpicos\\Olímpicos\\Olímpicos.csproj",
+      "projectUniqueName": "C:\\Users\\3mod\\Desktop\\olimpicos\\Olímpicos\\Olímpicos.csproj",
       "projectName": "Olímpicos",
-      "projectPath": "F:\\3A-MODULAR\\hmm\\Olímpicos\\Olímpicos\\Olímpicos.csproj",
+      "projectPath": "C:\\Users\\3mod\\Desktop\\olimpicos\\Olímpicos\\Olímpicos.csproj",
       "packagesPath": "C:\\Users\\3mod\\.nuget\\packages\\",
-      "outputPath": "F:\\3A-MODULAR\\hmm\\Olímpicos\\Olímpicos\\obj\\",
+      "outputPath": "C:\\Users\\3mod\\Desktop\\olimpicos\\Olímpicos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

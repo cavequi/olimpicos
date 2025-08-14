@@ -182,6 +182,26 @@ SELECT p.nome_prova, e.ano, e.sede, r.resultado, r.medalha
             return View(atleta);
         }
 
+        public IActionResult Criar()
+        {
+            return View();
 
+        }
+
+        [HttpPost]
+        public IActionResult Criar(Edicao edicao)
+        {
+            using (var conn = db.GetConnection())
+            {
+                var sql = @"INSERT INTO edicao (ano , sede)
+                     VALUES (@ano, @sede)";
+                var cmd = new MySqlCommand(sql, conn);
+                cmd.Parameters.AddWithValue("@ano", edicao.Ano);
+                cmd.Parameters.AddWithValue("@sede", edicao.Sede);
+             
+                cmd.ExecuteNonQuery();
+            }
+            return RedirectToAction("Index", "Home");
+        }
     }
 }

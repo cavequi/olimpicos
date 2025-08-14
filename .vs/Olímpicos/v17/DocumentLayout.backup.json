@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\",
+  "WorkspaceRootPath": "C:\\Users\\3mod\\Desktop\\olimpicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|f:\\3a-modular\\hmm\\ol\u00EDmpicos\\ol\u00EDmpicos\\controllers\\resultadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\controllers\\resultadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\views\\cidades\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\views\\cidades\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|f:\\3a-modular\\hmm\\ol\u00EDmpicos\\ol\u00EDmpicos\\models\\provas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\models\\provas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|f:\\3a-modular\\hmm\\ol\u00EDmpicos\\ol\u00EDmpicos\\models\\modalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\models\\modalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|f:\\3a-modular\\hmm\\ol\u00EDmpicos\\ol\u00EDmpicos\\controllers\\atletascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\controllers\\atletascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|f:\\3a-modular\\hmm\\ol\u00EDmpicos\\ol\u00EDmpicos\\models\\resultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\models\\resultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|f:\\3a-modular\\hmm\\ol\u00EDmpicos\\ol\u00EDmpicos\\models\\atletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\models\\atletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\controllers\\provascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\controllers\\provascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Provas.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Models\\Provas.cs",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Models\\Provas.cs",
-              "ToolTip": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Models\\Provas.cs",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Models\\Provas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:47:42.538Z",
+              "DocumentIndex": 0,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
+              "RelativeToolTip": "Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T19:01:06.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Modalidades.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Models\\Modalidades.cs",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Models\\Modalidades.cs",
-              "ToolTip": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Models\\Modalidades.cs",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Models\\Modalidades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "CidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\CidadesController.cs",
+              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Controllers\\CidadesController.cs",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\CidadesController.cs",
+              "RelativeToolTip": "Ol\u00EDmpicos\\Controllers\\CidadesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:45:33.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Atletas.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Models\\Atletas.cs",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Models\\Atletas.cs",
-              "ToolTip": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Models\\Atletas.cs",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Models\\Atletas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:43:56.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Resultados.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Models\\Resultados.cs",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Models\\Resultados.cs",
-              "ToolTip": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Models\\Resultados.cs",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Models\\Resultados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:28:15.565Z",
+              "WhenOpened": "2025-08-14T18:51:42.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AtletasController.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Controllers\\AtletasController.cs",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Controllers\\AtletasController.cs",
-              "ToolTip": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Controllers\\AtletasController.cs",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Controllers\\AtletasController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
+              "Title": "ProvasController.cs",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\ProvasController.cs",
+              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Controllers\\ProvasController.cs",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\ProvasController.cs",
+              "RelativeToolTip": "Ol\u00EDmpicos\\Controllers\\ProvasController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:14:54.603Z",
+              "WhenOpened": "2025-08-14T18:51:04.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ResultadosController.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Controllers\\ResultadosController.cs",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Controllers\\ResultadosController.cs",
-              "ToolTip": "F:\\3A-MODULAR\\hmm\\Ol\u00EDmpicos\\Ol\u00EDmpicos\\Controllers\\ResultadosController.cs",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Controllers\\ResultadosController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAUwE0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:14:37.864Z",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ol\u00EDmpicos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T18:24:36.715Z",
               "EditorCaption": ""
             }
           ]
