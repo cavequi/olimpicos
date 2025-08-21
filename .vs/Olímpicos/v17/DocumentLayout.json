@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\3mod\\Desktop\\olimpicos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\views\\atletas\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\views\\atletas\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\controllers\\atletascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\controllers\\atletascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\views\\cidades\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\views\\cidades\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\views\\atletas\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\views\\atletas\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\controllers\\provascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\controllers\\provascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|c:\\users\\3mod\\desktop\\olimpicos\\ol\u00EDmpicos\\models\\atletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06C58D1-55B3-4184-AA28-79121F057EC4}|Ol\u00EDmpicos\\Ol\u00EDmpicos.csproj|solutionrelative:ol\u00EDmpicos\\models\\atletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Criar.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Atletas\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Views\\Atletas\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Atletas\\Criar.cshtml",
+              "RelativeToolTip": "Ol\u00EDmpicos\\Views\\Atletas\\Criar.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T19:01:06.92Z",
+              "WhenOpened": "2025-08-21T17:48:45.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CidadesController.cs",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\CidadesController.cs",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Controllers\\CidadesController.cs",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\CidadesController.cs",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Controllers\\CidadesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T18:51:42.61Z",
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
+              "RelativeToolTip": "Ol\u00EDmpicos\\Views\\Cidades\\Criar.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T18:05:07.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProvasController.cs",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\ProvasController.cs",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Controllers\\ProvasController.cs",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\ProvasController.cs",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Controllers\\ProvasController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Atletas.cs",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Models\\Atletas.cs",
+              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Models\\Atletas.cs",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Models\\Atletas.cs",
+              "RelativeToolTip": "Ol\u00EDmpicos\\Models\\Atletas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T18:51:04.463Z",
+              "WhenOpened": "2025-08-21T18:02:06.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Atletas\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Views\\Atletas\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Atletas\\Editar.cshtml",
+              "RelativeToolTip": "Ol\u00EDmpicos\\Views\\Atletas\\Editar.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T17:01:03.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Ol\u00EDmpicos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T18:24:36.715Z",
+              "Title": "AtletasController.cs",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\AtletasController.cs",
+              "RelativeDocumentMoniker": "Ol\u00EDmpicos\\Controllers\\AtletasController.cs",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\olimpicos\\Ol\u00EDmpicos\\Controllers\\AtletasController.cs",
+              "RelativeToolTip": "Ol\u00EDmpicos\\Controllers\\AtletasController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv7EAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:48:26.713Z",
               "EditorCaption": ""
             }
           ]
